@@ -1,12 +1,13 @@
 <h1 align="center">Manoj Kumar</h1>
 <p align="center"><b>Principal Software Consultant &amp; Senior Software Engineer</b></p>
-<p align="center">10+ years architecting enterprise-grade platforms — from AI-powered workflow automation and RAG systems to multi-vendor network security orchestration and core banking software.</p>
+<p align="center">10+ years building enterprise-grade platforms — from AI-powered workflow automation and RAG systems to multi-vendor network security orchestration and core banking software.</p>
 
 <p align="center">
   <a href="https://manoj-portfolio-rho.vercel.app">🌐 Portfolio</a> ·
+  <a href="https://github.com/ManojPabani/portfolio/blob/master/resume/Manoj-Kumar-Resume.pdf">📄 Resume</a> ·
   <a href="https://www.linkedin.com/in/manojpabani/">💼 LinkedIn</a> ·
   <a href="mailto:manojpabani@gmail.com">📫 Email</a> ·
-  <a href="https://github.com/ManojPabani/portfolio">📄 Resume Site Source</a>
+  <a href="https://github.com/ManojPabani/portfolio">💻 Portfolio Source</a>
 </p>
 
 ---
